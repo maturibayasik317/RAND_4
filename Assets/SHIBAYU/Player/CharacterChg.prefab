@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6374592017640997251
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8698252957461825153}
+  - component: {fileID: 2331225656549176499}
+  - component: {fileID: 6244733752595652825}
+  m_Layer: 0
+  m_Name: CharacterChg
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8698252957461825153
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6374592017640997251}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2331225656549176499
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6374592017640997251}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a48249a31451714f9beb38aa3848aae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  index: 0
+  Player:
+  - {fileID: 164258353567867370, guid: 8e78b9a3672a044408b75d0bfe808057, type: 3}
+  - {fileID: 2186724327554767156, guid: 6377adda66bfa7e4881a62c8c7e7a19a, type: 3}
+  - {fileID: 6980526229973722225, guid: 53068cc1a0c5a2a41a0f70f391d80e7e, type: 3}
+  gameObject: {fileID: 0}
+  PlayerObj: {fileID: 0}
+  dfPlayer: {x: 0, y: 0}
+  Alive: 1
+  BallChec: 0
+  CheckPlayer: 0
+  CheckGool: 0
+--- !u!114 &6244733752595652825
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6374592017640997251}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d1728c275207854bb339d4d254368c3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Player:
+  - {fileID: 164258353567867370, guid: 8e78b9a3672a044408b75d0bfe808057, type: 3}
+  - {fileID: 6975166697542817005, guid: 76875c3936a03cb41b74be517f376456, type: 3}
+  childObject: {fileID: 0}
+  Square: {fileID: 0}

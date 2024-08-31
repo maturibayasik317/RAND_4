@@ -412,7 +412,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4671773106059434392, guid: a69e8221cbdbbca4886b9d15939e48dd, type: 3}
       propertyPath: Scene1
-      value: 
+      value: Stage1
       objectReference: {fileID: 0}
     - target: {fileID: 4671773106059434392, guid: a69e8221cbdbbca4886b9d15939e48dd, type: 3}
       propertyPath: Scene2

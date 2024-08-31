@@ -27,11 +27,7 @@ QualitySettings:
     softVegetation: 0
     realtimeReflectionProbes: 0
     billboardsFaceCameraPosition: 0
-<<<<<<< HEAD
-    useLegacyDetailDistribution: 1
-=======
     useLegacyDetailDistribution: 0
->>>>>>> iwasa
     vSyncCount: 0
     realtimeGICPUUsage: 25
     lodBias: 0.3
@@ -80,11 +76,7 @@ QualitySettings:
     softVegetation: 0
     realtimeReflectionProbes: 0
     billboardsFaceCameraPosition: 0
-<<<<<<< HEAD
-    useLegacyDetailDistribution: 1
-=======
     useLegacyDetailDistribution: 0
->>>>>>> iwasa
     vSyncCount: 0
     realtimeGICPUUsage: 25
     lodBias: 0.4
@@ -133,11 +125,7 @@ QualitySettings:
     softVegetation: 0
     realtimeReflectionProbes: 0
     billboardsFaceCameraPosition: 0
-<<<<<<< HEAD
-    useLegacyDetailDistribution: 1
-=======
     useLegacyDetailDistribution: 0
->>>>>>> iwasa
     vSyncCount: 1
     realtimeGICPUUsage: 25
     lodBias: 0.7
@@ -186,11 +174,7 @@ QualitySettings:
     softVegetation: 1
     realtimeReflectionProbes: 1
     billboardsFaceCameraPosition: 1
-<<<<<<< HEAD
-    useLegacyDetailDistribution: 1
-=======
     useLegacyDetailDistribution: 0
->>>>>>> iwasa
     vSyncCount: 1
     realtimeGICPUUsage: 50
     lodBias: 1
@@ -239,11 +223,7 @@ QualitySettings:
     softVegetation: 1
     realtimeReflectionProbes: 1
     billboardsFaceCameraPosition: 1
-<<<<<<< HEAD
-    useLegacyDetailDistribution: 1
-=======
     useLegacyDetailDistribution: 0
->>>>>>> iwasa
     vSyncCount: 1
     realtimeGICPUUsage: 50
     lodBias: 1.5
@@ -292,11 +272,7 @@ QualitySettings:
     softVegetation: 1
     realtimeReflectionProbes: 1
     billboardsFaceCameraPosition: 1
-<<<<<<< HEAD
-    useLegacyDetailDistribution: 1
-=======
     useLegacyDetailDistribution: 0
->>>>>>> iwasa
     vSyncCount: 1
     realtimeGICPUUsage: 100
     lodBias: 2
@@ -327,17 +303,6 @@ QualitySettings:
   m_TextureMipmapLimitGroupNames: []
   m_PerPlatformDefaultQuality:
     Android: 2
-<<<<<<< HEAD
-    GameCoreScarlett: 5
-    GameCoreXboxOne: 5
-    Lumin: 5
-    Nintendo Switch: 5
-    PS4: 5
-    PS5: 5
-    Server: 0
-    Stadia: 5
-    Standalone: 5
-=======
     EmbeddedLinux: 5
     GameCoreScarlett: 5
     GameCoreXboxOne: 5
@@ -350,7 +315,6 @@ QualitySettings:
     Stadia: 5
     Standalone: 5
     VisionOS: 5
->>>>>>> iwasa
     WebGL: 3
     Windows Store Apps: 5
     XboxOne: 5

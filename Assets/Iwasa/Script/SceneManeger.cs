@@ -158,6 +158,7 @@ public class SceneManeger : MonoBehaviour
     }
 
 
+
     //‚»‚ÌƒV[ƒ“‚ÉˆÚ“®‚Å‚«‚é‚©‚Ç‚¤‚©‚Ì”»•Ê
     public void LoadStage(int stageIndex)
     {
